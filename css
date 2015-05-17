@@ -1,0 +1,99 @@
+.nav h1 {
+	font-size: 48px; 
+	color: black;
+	font-family: cursive;
+	text-align: center;
+	margin: 20px;
+}
+
+.nav h2{
+	font-size: 14px;
+	text-align: justify;
+}
+
+.nav p{
+	color: black;
+	font-family:  Georgia, italic;
+	font-style: italic;
+	font-size: 19px;
+	margin-top: -40px;
+	margin-bottom: 50px;
+
+}
+.nav li{
+	display: inline;
+	font-size: 16px;
+	color: white;
+	font-family: Verdana;
+	margin: 20px;
+	margin-top: 0px;
+}
+
+.nav ul {
+  background-color: #4D1F00;
+  height: 30px;
+}
+
+.button {
+	color:white;
+}
+
+.jumbotron img {
+max-width:600px;
+margin-left: 0px;
+
+}
+
+.jumbotron p{
+	font-size: 13px;
+	max-width: 600px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.jumbotron {
+	background-color: #C0C0C0;
+	max-width: 1000px;
+	
+
+}
+
+.row img {
+max-width: 100px;
+max-height: 100px;
+display: inline-block;
+margin-left: 40px;
+
+
+}
+
+.boxheader li{
+	display: block;
+	font-family: Verdana;
+	margin-top: -2500px;
+	text-align: right;
+	margin-right: 300px;
+	background-color: #cccccc;
+	height: 0px;
+}
+.fa-lg {
+  font-size: 2em;
+  line-height: 0.75em;
+}
+
+
+.item h7{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+.carousel img{
+	width: 500px;
+	left: 400px;
+	position: relative;
+	
+}
